@@ -1,40 +1,19 @@
 ## Hej, I'm Andy
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2012%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 280 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-🌆 Daytime                541 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌃 Evening                766 commits         ███████████░░░░░░░░░░░░░░   44.66 % 
-🌙 Night                  299 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Wednesday                329 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Thursday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Friday                   349 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Saturday                 167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Sunday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+🌞 Morning                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+🌆 Daytime                541 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
+🌃 Evening                767 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
+🌙 Night                  299 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 ```
 
 
@@ -79,7 +58,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anirudhsridhar225/anirudhsridhar225/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2025 16:17:40 UTC
+ Last Updated on 21/10/2025 16:33:28 UTC
 <!--END_SECTION:waka-->
 
 You can find me at:
