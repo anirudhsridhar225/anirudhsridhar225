@@ -81,3 +81,9 @@ Java                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 21/10/2025 16:17:40 UTC
 <!--END_SECTION:waka-->
+
+You can find me at:
+- my portfolio: [here](https://anirudh.foo)
+- discord: shotomaamey
+- gmail: [anirudhsridhar1064](mailto:anirudhsridhar1064@gmail.com)
+- linkedin: im not putting that here
