@@ -1,6 +1,8 @@
 ## Hej, I'm Andy
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
@@ -57,7 +59,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anirudhsridhar225/anirudhsridhar225/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 01:42:03 UTC
+ Last Updated on 17/11/2025 01:30:13 UTC
 <!--END_SECTION:waka-->
 
 You can find me at:
