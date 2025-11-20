@@ -23,16 +23,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-contributions-anirudhsrid30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -52,7 +52,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anirudhsridhar225/anirudhsridhar225/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2025 01:28:14 UTC
+ Last Updated on 20/11/2025 01:28:11 UTC
 <!--END_SECTION:waka-->
 
 You can find me at:
